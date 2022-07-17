@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\bin\Debug\TP FINAL Benitez Eric.exe.config
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\bin\Debug\TP FINAL Benitez Eric.exe
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\bin\Debug\TP FINAL Benitez Eric.pdb
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP FINAL Benitez Eric.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP FINAL Benitez Eric.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP_FINAL_Benitez_Eric.Form1.resources
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP_FINAL_Benitez_Eric.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP FINAL Benitez Eric.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP FINAL Benitez Eric.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP FINAL Benitez Eric.exe
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP FINAL Benitez Eric.pdb
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP_FINAL_Benitez_Eric.Form2.resources
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP FINAL Benitez Eric\obj\Debug\TP_FINAL_Benitez_Eric.Form3.resources
