@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\bin\Debug\Neg.dll
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\bin\Debug\Neg.pdb
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\bin\Debug\Modelo.dll
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\bin\Debug\Modelo.pdb
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\obj\Debug\Neg.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\obj\Debug\Neg.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\obj\Debug\Neg.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\obj\Debug\Neg.dll
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Neg\obj\Debug\Neg.pdb

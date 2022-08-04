@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Modelo\bin\Debug\Modelo.dll
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Modelo\bin\Debug\Modelo.pdb
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Modelo\obj\Debug\Modelo.dll
+C:\Users\USUARIO\Documents\Proyectos visual studio community 2022\TP5 Benitez Eric\Modelo\obj\Debug\Modelo.pdb
